@@ -1,0 +1,69 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global Typography */
+body {
+  @apply font-sans text-base leading-relaxed ;
+}
+
+
+
+h1 {
+  @apply text-4xl font-bold ;
+}
+
+h2 {
+  @apply text-3xl font-bold ;
+}
+
+h3 {
+  @apply text-2xl font-bold ;
+}
+
+
+
+a {
+  @apply  hover:text-primary duration-300 ease-in-out;
+}
+
+/* Tailwind Typography Plugin for Rich Text */
+.prose {
+  @apply prose-base prose-p:text-lg prose-h1:text-4xl prose-h2:text-3xl prose-h3:text-2xl  prose-a:hover:text-red-600;
+}
+/* Add this in your CSS file to ensure smooth transitions */
+.fade-enter, .fade-exit {
+  opacity: 0;
+  transition: opacity 0.5s ease-in-out;
+}
+
+.fade-enter-active {
+  opacity: 1;
+}
+.btn{
+  @apply bg-primary text-white py-3 px-8
+}
+.btc{
+  @apply border-primary border-2 py-3 px-8
+}
+@keyframes zoomInOut {
+  0% {
+    background-size: 100%;
+  }
+  50% {
+    background-size: 110%;
+  }
+  100% {
+    background-size: 100%;
+  }
+}
+
+.zoom-bg {
+  animation: zoomInOut 10s ease-in-out infinite;
+  background-size: cover;
+  background-position: center;
+}
+
+html{
+  scroll-behavior: smooth;
+}

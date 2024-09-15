@@ -1,0 +1,51 @@
+[
+  {
+    "image": "https://preview.colorlib.com/theme/alazea/img/bg-img/16.jpg.webp",
+    "name": "Aloe Vera",
+    "description": "Office plant",
+    "category": "Coffee Design"
+  },
+  {
+    "image": "https://preview.colorlib.com/theme/alazea/img/bg-img/17.jpg.webp",
+    "name": "Snake Plant",
+    "description": "Office plant",
+    "category": "Coffee Design"
+  },
+  {
+    "image": "https://preview.colorlib.com/theme/alazea/img/bg-img/18.jpg.webp",
+    "name": "Spider Plant",
+    "description": "Office plant",
+    "category": "Garden"
+  },
+  {
+    "image": "https://preview.colorlib.com/theme/alazea/img/bg-img/19.jpg.webp",
+    "name": "Peace Lily",
+    "description": "Office plant",
+    "category": "Office Design"
+  },
+  {
+    "image": "https://preview.colorlib.com/theme/alazea/img/bg-img/20.jpg.webp",
+    "name": "Philodendron",
+    "description": "Office plant",
+    "category": "Garden"
+  },
+  {
+    "image": "https://img.freepik.com/free-photo/minimalistic-composition-with-red-poppy-flowers-vase-candles-home_169016-57155.jpg?t=st=1726014374~exp=1726017974~hmac=3a89b57f4b2addb0dfa0c51982decd1e9384cc972222a8fe2ca23f6b9770ea90&w=826",
+    "name": "Pothos",
+    "description": "Office plant",
+    "category": "Home"
+  },
+  {
+    "image": "https://preview.colorlib.com/theme/alazea/img/bg-img/22.jpg.webp",
+    "name": "Rubber Plant",
+    "description": "Office plant",
+    "category": "Home"
+  },
+  {
+    "image": "https://img.freepik.com/free-photo/minimalistic-workplace-with-laptop-flowers-glass-vase-desk_23-2148225526.jpg?t=st=1726014257~exp=1726017857~hmac=c734433a2df2d65f3aaf5ad8a11c320edfc5fdfbfee3749be478ccefe08382fc&w=360",
+    "name": "Minimal Flower",
+    "description": "Office Plant",
+    "category": "Office Design"
+  }
+
+]

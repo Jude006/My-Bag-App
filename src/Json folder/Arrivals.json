@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "image": "/images/arr1.webp",
+      "name": "Cactus Flower",
+      "price": 10.99,
+      "description": "The Cactus Flower is a hardy plant that thrives in arid conditions. Known for its resilience and minimal watering needs, it's a popular choice for those seeking a low-maintenance yet striking addition to their home or garden. The flower blooms in vibrant colors, adding a unique beauty to any space.",
+      "water_requirement": "Low",
+      "light_requirement": "Full sun",
+      "bloom_season": "Summer"
+    },
+    {
+      "id": 2,
+      "image": "/images/arr2.webp",
+      "name": "Tulip",
+      "price": 8.50,
+      "description": "Tulips are a classic springtime flower, symbolizing renewal and fresh beginnings. With their delicate petals and a wide variety of colors, tulips brighten any garden or indoor arrangement. These flowers are not only beautiful but also easy to grow, making them a favorite among gardeners.",
+      "water_requirement": "Moderate",
+      "light_requirement": "Partial sun",
+      "bloom_season": "Spring"
+    },
+    {
+      "id": 3,
+      "image": "/images/arr3.webp",
+      "name": "Sunflower",
+      "price": 12.00,
+      "description": "Sunflowers are known for their large, vibrant yellow blooms and their ability to track the sun across the sky. They bring a cheerful atmosphere to any space and are perfect for gardens that receive plenty of sunlight. They are also symbolic of loyalty and happiness.",
+      "water_requirement": "Moderate",
+      "light_requirement": "Full sun",
+      "bloom_season": "Summer"
+    },
+    {
+      "id": 4,
+      "image": "/images/arr4.webp",
+      "name": "Daisy",
+      "price": 6.75,
+      "description": "Daisies are simple yet charming flowers that bloom in abundance. Their bright yellow centers and white petals are a timeless combination, often symbolizing innocence and purity. They grow easily in a variety of conditions and are a great addition to wildflower gardens.",
+      "water_requirement": "Low",
+      "light_requirement": "Full sun to partial shade",
+      "bloom_season": "Spring to Fall"
+    }
+  ]
+  
