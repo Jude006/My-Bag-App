@@ -7,8 +7,10 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+   "generate-sitemap": "node sitemap-generator.js"
   },
+  
   "dependencies": {
     "@tailwindcss/typography": "^0.5.15",
     "flowbite": "^2.5.1",
@@ -20,6 +22,7 @@
     "react-router-dom": "^6.26.1",
     "react-spinners": "^0.14.1",
     "react-toastify": "^10.0.5",
+    "sitemap": "^8.0.0",
     "swiper": "^11.1.12"
   },
   "devDependencies": {

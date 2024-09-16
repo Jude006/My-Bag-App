@@ -50,7 +50,7 @@ function NewArrivals() {
       </div>
       {selectedProduct && (
         <div ref={modalRef} onClick={closeModal} className='fixed cursor-pointer flex justify-center items-center top-0 z-10 inset-0 bg-primary bg-opacity-25 w-full h-screen backdrop-blur-sm'>
-                <div className='bg-white relative mt-20 py-8 px-6 rounded-md flex flex-col justify-center items-center max-w-[50%] mx-auto shadow'>
+                <div className='bg-white relative mt-20 py-8 px-6 rounded-md flex flex-col justify-center items-center lg:max-w-[50%] w-full mx-auto shadow'>
                     <div className='place-self-end cursor-pointer' onClick={closePopup}>
                         <h1><FaTimes /></h1>
                     </div>
