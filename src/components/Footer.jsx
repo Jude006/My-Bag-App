@@ -8,7 +8,7 @@ import img3 from '../assets/images/arr2.webp'
 
 function Footer() {
   return (
-    <div className='lg:h-[55vh] md:h-[69vh] h-[135vh] object-cover w-full  text-secondary bg-cover font-mont bg-center relative' style={{backgroundImage: `url(${img})`}}>
+    <div className='lg:h-[55vh] md:h-[69vh] h-[150vh] object-cover w-full  text-secondary bg-cover font-mont bg-center relative' style={{backgroundImage: `url(${img})`}}>
     <div className='absolute w-full top-0 left-0 h-full bg-green-900 bg-opacity-40'>
         <div className='grid py-16 lg:px-24 md:px-10 px-8 lg:grid-cols-4 md:grid-cols-2 grid-cols-1 justify-between w-full '>
             <div className='flex flex-col gap-4'>
